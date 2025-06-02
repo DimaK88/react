@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "https://DimaK88.github.io/react_phone-catalog/",
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
@@ -12,8 +12,8 @@
     "react-transition-group": "^4.4.5"
   },
   "devDependencies": {
-    "@mate-academy/scripts": "^1.8.5",
-    "@mate-academy/students-ts-config": "*",
+    "@mate-academy/scripts": "^2.1.1",
+    "@mate-academy/students-ts-config": "^0.0.4",
     "@mate-academy/stylelint-config": "*",
     "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",
@@ -35,7 +35,7 @@
     "prettier": "^3.3.2",
     "sass": "^1.77.8",
     "stylelint": "^16.7.0",
-    "typescript": "^5.2.2",
+    "typescript": "^5.8.3",
     "vite": "^5.3.1"
   },
   "scripts": {
