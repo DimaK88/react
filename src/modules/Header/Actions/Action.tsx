@@ -3,8 +3,8 @@ import cn from 'classnames';
 import { StateContext } from '../../hooks/SelectionState';
 import { useContext } from 'react';
 import { NavLink } from 'react-router-dom';
-import heartIcon from '../../../images/icons/Shopping bag.png';
-import cartIcon from '../../../images/icons/Favourite.png';
+import cartIcon from '../../../images/icons/Shopping bag.png';
+import heartIcon from '../../../images/icons/Favourite.png';
 
 interface Props {
   name: string;
@@ -19,12 +19,12 @@ export const Action = () => {
   };
 
   const actions: Props[] = [
-    { name: 'favourites', count: favourites.length, icon: 'heart' },
     {
       name: 'cart',
       count: cart.reduce((count, a) => count + a.quantity, 0),
       icon: 'cart',
     },
+    { name: 'favourites', count: favourites.length, icon: 'heart' },
   ];
 
   return (

@@ -2,7 +2,7 @@
 - [DEMO LINK](https://github.com/DimaK88/react)
 
   ## Link to the layout used to create the project
-    (https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
+  - [FIGMA LAYOUT](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
 
   ## Project Description
     This is a catalog application of phones, tablets and accessories, built using React. The user can browse the list of phones, filter, sort, search and view detailed information about each model.
