@@ -1,5 +1,5 @@
 # React Product Catalog
-- [DEMO LINK](https://github.com/DimaK88/react)
+- [DEMO LINK](https://DimaK88.github.io/react_phone-catalog/)
 
   ## Link to the layout used to create the project
   - [FIGMA LAYOUT](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
